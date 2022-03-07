@@ -31,30 +31,30 @@ Step 3: Execute the following commands in the terminal
         
 
 
-### DISPLAYING A PARTICULAR NUMBER OF ROWS(PAGINATION)
+### 1. DISPLAYING A PARTICULAR NUMBER OF ROWS(PAGINATION)
 <img width="700" border="6px solid black" alt="2022-03-07" src="https://user-images.githubusercontent.com/82633814/156999483-a815b772-73b3-4e26-bb17-98049d3114ab.png">
 
-### SEARCHING DATA
+### 2.  SEARCHING DATA
 
 <img width="700" alt="2022-03-07 (3)" src="https://user-images.githubusercontent.com/82633814/156999719-cbb4b8d8-6488-43da-b255-d72637f0b34c.png">
 
 
-### DETAILS OF PARTICULAR ROW
+### 3. DETAILS OF PARTICULAR ROW
 
 <img width="700" alt="2022-03-07 (2)" src="https://user-images.githubusercontent.com/82633814/157000755-afbff9b4-d2c5-4866-af11-0569cf7a07a3.png">
 
 
-### SORTING DATA ACCORDING TO A COLUMN
+### 4. SORTING DATA ACCORDING TO A COLUMN
  Data sorted according to Event date(oldest to recent events)
  
  
 <img width="700" alt="2022-03-07 (10)" src="https://user-images.githubusercontent.com/82633814/157000534-711854be-7141-4826-9f5b-1f4679aeeada.png">
 
-### FILTERING DATA IN A COLUMN
+### 5. FILTERING DATA IN A COLUMN
 
 <img width="700" alt="2022-03-07 (5)" src="https://user-images.githubusercontent.com/82633814/157000979-e61f569a-d577-4897-a5e0-3e90297cfcc0.png">
 
-### EXPORTING DATA AS PDF
+### 6. EXPORTING DATA AS PDF
  <img width="700" alt="2022-03-07 (6)" src="https://user-images.githubusercontent.com/82633814/157001158-9a9c583e-7f0d-4d6a-940e-2b1aad8bd89f.png">
 
 
