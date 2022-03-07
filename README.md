@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# TABULAR DISPLAY OF API DATA
+The main purpose of this application is fetching  data from an external  api and displaying the details in a tabular format. It is built with features for searching,filtering data according to column, exporting data in csv/pdf format,sorting according to a particular column, pagination etc.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="700" alt="2022-03-07 (1)" src="https://user-images.githubusercontent.com/82633814/156999166-fdda2448-2ea1-4864-b26a-53e327edb76d.png">
 
-## Available Scripts
+## TECH STACK USED
+React JS
 
-In the project directory, you can run:
 
-### `npm start`
+<img width="50" alt="2022-03-07 (1)" src="https://user-images.githubusercontent.com/82633814/157004942-e8799bd5-e37a-494d-be84-babca1ce2e9a.jpg">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## STEPS TO RUN THE APPLICATION
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Step 1: Clone the repository 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Step 2: Open the repo folder inside an Editor
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Step 3: Execute the following commands in the terminal
 
-### `npm run eject`
+         $ npm i
+         $ npm start
+        
+          
+        
+## FEATURES OF THE APPLICATION
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+        
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### DISPLAYING A PARTICULAR NUMBER OF ROWS(PAGINATION)
+<img width="700" border="6px solid black" alt="2022-03-07" src="https://user-images.githubusercontent.com/82633814/156999483-a815b772-73b3-4e26-bb17-98049d3114ab.png">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### SEARCHING DATA
 
-## Learn More
+<img width="700" alt="2022-03-07 (3)" src="https://user-images.githubusercontent.com/82633814/156999719-cbb4b8d8-6488-43da-b255-d72637f0b34c.png">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### DETAILS OF PARTICULAR ROW
 
-### Code Splitting
+<img width="700" alt="2022-03-07 (2)" src="https://user-images.githubusercontent.com/82633814/157000755-afbff9b4-d2c5-4866-af11-0569cf7a07a3.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### SORTING DATA ACCORDING TO A COLUMN
+ Data sorted according to Event date(oldest to recent events)
+ 
+ 
+<img width="700" alt="2022-03-07 (10)" src="https://user-images.githubusercontent.com/82633814/157000534-711854be-7141-4826-9f5b-1f4679aeeada.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### FILTERING DATA IN A COLUMN
 
-### Making a Progressive Web App
+<img width="700" alt="2022-03-07 (5)" src="https://user-images.githubusercontent.com/82633814/157000979-e61f569a-d577-4897-a5e0-3e90297cfcc0.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### EXPORTING DATA AS PDF
+ <img width="700" alt="2022-03-07 (6)" src="https://user-images.githubusercontent.com/82633814/157001158-9a9c583e-7f0d-4d6a-940e-2b1aad8bd89f.png">
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
