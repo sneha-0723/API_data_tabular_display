@@ -1,5 +1,7 @@
 # TABULAR DISPLAY OF API DATA
-The main purpose of this application is fetching  data from an external  api and displaying the details in a tabular format. It is built with features for searching,filtering data according to column, exporting data in csv/pdf format,sorting according to a particular column, pagination etc.
+The main purpose of this application is fetching  data from an external  api and displaying the details in a tabular format. 
+
+It is built with features for searching,filtering data within a column, exporting data in csv/pdf format,sorting according to a particular column, pagination etc.
 
 <img width="700" alt="2022-03-07 (1)" src="https://user-images.githubusercontent.com/82633814/156999166-fdda2448-2ea1-4864-b26a-53e327edb76d.png">
 
